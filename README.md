@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Nick, an <a href="https://linkedin.com/in/nick-hartzog-821436387">IT Professional</a>☺</h1>
 
-<!--
-**nickhartzog-rgb/nickhartzog-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](GITHUB LINK)
+  - [osTicket: Post-Installation Configuration](GITHUB LINK)
+  - [osTicket: Ticket Lifecycle Examples](GITHUB LINK)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](GITHUB LINK)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](GITHUB LINK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖇️ Connect with me:</h2>
+
+[<img align="left" alt="Nick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nick-hartzog-821436387
