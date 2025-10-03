@@ -6,6 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/nickhartzog-rgb/ostickets-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/nickhartzog-rgb/ostickets-post-installation-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/nickhartzog-rgb/ticket-lifecycle)
+  - [osTicket: All-In-One Guide](https://github.com/nickhartzog-rgb/osticket_all-in-one_guide)
 
 🖇️ Connect with me:</h2>
 
